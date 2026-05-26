@@ -1,0 +1,8 @@
+# VS 临时文件
+.vs/
+*.suo
+*.user
+*.obj
+*.exe
+*.log
+x64/
